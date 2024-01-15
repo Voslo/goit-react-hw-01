@@ -1,4 +1,4 @@
-import userData from "../userData.json";
+import userData from "../UserData.json";
 import friends from "../friends.json"
 import transactions from "../transactions.json"
 import Profile from "./components/Profile/Profile";
